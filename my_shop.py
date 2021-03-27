@@ -76,3 +76,4 @@ class MyShop :
     def showAvailableBalance(self) : 
         print('\t','-'*13,'|','-'*13)
         print('\t','| ',' Balance : |',' '*5,f'{self.__balance} ',' '*3,'|')
+
