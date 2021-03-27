@@ -30,4 +30,3 @@ while True :
          myShop.showProducts()
     else :  
          myShop.showAvailableBalance()
-
